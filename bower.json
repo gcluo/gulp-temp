@@ -1,0 +1,9 @@
+{
+  "version": "0.6.4",
+  "keywords": ["gulp", "sass", "static"],
+  "licenses": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "sandal": "https://github.com/marvin1023/sandal.git"
+  }
+}
